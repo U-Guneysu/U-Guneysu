@@ -4,6 +4,7 @@
 
 # Hi 👋, I'm Umut Güneysu
 ### As a university student, I am actively working on improving myself across various fields.
+### You can see the languages ​​and tools I am learning.
 
 - 🌱 I’m currently learning **Data Mining and React**
 
