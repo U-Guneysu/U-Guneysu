@@ -1,16 +1,49 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media1.tenor.com/m/W9_8dfFmyr0AAAAd/pixel-game.gif" alt="MasterHead" style="width: 700px ;height: 300px;"/>
+</p>
 
-<!--
-**U-Guneysu/U-Guneysu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Umut Güneysu
+### As a university student, I am actively working on improving myself across various fields.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Data Mining and React**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌍 **Languages and Tools**:
+
+### 🚀 **Mobile & Web Development:**
+- **Android**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android"/> 
+- **Bootstrap**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/> 
+- **JavaScript**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> 
+- **React**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/> 
+- **React Native**: <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="React Native"/> 
+- **HTML5**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/> 
+- **CSS3**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/> 
+
+### 💻 **Programming Languages:**
+- **C#**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/> 
+- **Java**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/> 
+- **Kotlin**: <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" alt="Kotlin"/> 
+- **Swift**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40" alt="Swift"/> 
+
+### 📊 **Data Science & Analytics:**
+- **Python**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/> 
+- **Pandas**: <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+- **Scikit Learn**: <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit Learn"/>
+- **Seaborn**: <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/>
+
+### 🗄️ **Database Management:**
+- **MSSQL**: <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="MSSQL"/> 
+- **Oracle**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle"/>
+- **Matlab**: <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="Matlab"/>
+
+### 🎨 **Design:**
+- **Photoshop**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="Photoshop"/> 
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=u-guneysu&label=Profile%20views&color=0e75b6&style=flat" alt="u-guneysu" /> </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=u-guneysu&show_icons=true&locale=en" alt="u-guneysu" />
+</p>
