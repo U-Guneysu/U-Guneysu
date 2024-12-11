@@ -13,7 +13,6 @@
 ## 🌍 **Languages and Tools**:
 
 ### 🚀 **Mobile & Web Development:**
-- **Android**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android"/> 
 - **Bootstrap**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/> 
 - **JavaScript**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> 
 - **React**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/> 
@@ -22,8 +21,6 @@
 
 ### 💻 **Programming Languages:**
 - **C#**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/> 
-- **Kotlin**: <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" alt="Kotlin"/> 
-- **Swift**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40" alt="Swift"/> 
 
 ### 📊 **Data Science & Analytics:**
 - **Python**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/> 
