@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/W9_8dfFmyr0AAAAd/pixel-game.gif" alt="MasterHead" style="width: 700px ;height: 300px;"/>
 </p>
 
-# Hi 👋, I'm Umut Güneysu
+# Hi 👋, I'm Umut Guneysu
 ### As a university student, I am actively working on improving myself across various fields.
 ### You can see the languages ​​and tools I am learning.
 
