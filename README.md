@@ -3,10 +3,10 @@
 </p>
 
 # Hi 👋, I'm Umut Guneysu
-### As a university student, I am actively working on improving myself across various fields.
+### I graduated from university and have decided to focus on improving myself in web development.
 ### You can see the languages ​​and tools I am learning.
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React.js and Bootstrap**
 
 ---
 
