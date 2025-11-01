@@ -6,7 +6,7 @@
 ### I graduated from university and have decided to focus on improving myself in web development.
 ### You can see the languages ​​and tools I am learning.
 
-- 🌱 I’m currently learning **React.js and Bootstrap**
+- 🌱 I’m currently learning **React.js, CSS Frameworks and Data Science**
 
 ---
 
